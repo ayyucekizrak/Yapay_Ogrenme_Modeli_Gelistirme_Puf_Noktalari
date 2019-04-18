@@ -1,2 +1,2 @@
-# Yapay_Ogrenme_Modeli_Gelistirme_Puf_Noktalari
+# Yapay Öğrenme Modeli Geliştirme Püf Noktaları El Kitabı
 Yapay Öğrenme Modeli Geliştirirken Genellikle Karşılaşılan Problemler ve Olası Çözümleri
