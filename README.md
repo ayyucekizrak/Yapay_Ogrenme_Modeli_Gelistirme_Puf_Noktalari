@@ -1,0 +1,2 @@
+# Yapay_Ogrenme_Modeli_Gelistirme_Puf_Noktalari
+Yapay Öğrenme Modeli Geliştirirken Genellikle Karşılaşılan Problemler ve Olası Çözümleri
