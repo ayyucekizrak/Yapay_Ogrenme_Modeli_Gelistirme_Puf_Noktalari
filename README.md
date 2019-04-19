@@ -13,7 +13,7 @@
 
 ---
 
-🌈 **[Aktivasyon Fonksiyonları için detaylı açıklama ve Google Colab üzerinde uygulama örneği](https://medium.com/deep-learning-turkiye/derin-%C3%B6%C4%9Frenme-i%C3%A7in-aktivasyon-fonksiyonlar%C4%B1n%C4%B1n-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1r%C4%B1lmas%C4%B1-cee17fd1d9cd)
+🌈 **[Aktivasyon Fonksiyonları için detaylı açıklama ve Google Colab üzerinde uygulama örneği](https://medium.com/deep-learning-turkiye/derin-%C3%B6%C4%9Frenme-i%C3%A7in-aktivasyon-fonksiyonlar%C4%B1n%C4%B1n-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1r%C4%B1lmas%C4%B1-cee17fd1d9cd)**
 
 🎬 **[Aktivasyon Fonksiyonları için videolu anlatım](https://www.youtube.com/watch?v=ZMkLC-ebIqE)**
 
