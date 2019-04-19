@@ -9,4 +9,4 @@
 
 ---
 
-![](https://github.com/ayyucekizrak/Yapay_Ogrenme_Modeli_Gelistirme_Puf_Noktalari/blob/master/ML_DL%20El%20Kitab%C4%B1%20Kapak.jpg)
+![](https://github.com/ayyucekizrak/Yapay_Ogrenme_Modeli_Gelistirme_Puf_Noktalari/blob/master/Yapay%20%C3%96%C4%9Frenme%20Modeli%20Geli%C5%9Ftirme%20P%C3%BCf%20Noktalar%C4%B1%20El%20Kitab%C4%B1.pdf)
